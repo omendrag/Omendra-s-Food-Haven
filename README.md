@@ -34,7 +34,7 @@ Download or clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/omendra-food-haven.git
+git clone https://github.com/omendrag/omendra-s-food-haven.git
 Open index.html in your browser.
 
 Explore the site and test all sections.
